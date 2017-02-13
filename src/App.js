@@ -31,10 +31,12 @@ class App extends Component {
 
 		return (
 			<div className="App">
-				Input : @ <input  type="text" onChange={this.change.bind(this)}></input>
+				<h3> Shitposting </h3>
+				@ <input  type="text" onChange={this.change.bind(this)}></input>
 				<ul>
 					{this.state.data.map(el => <li>{el.title} <button id={el.name} onClick={this.handle.bind(this)}> Tweet!</button></li>)}
 				</ul>
+				<a href="https://github.com/taiyoslime-sandbox/shitposting"> Repository </a>
 			</div>
 		);
 	}

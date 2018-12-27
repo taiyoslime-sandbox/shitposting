@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.b9b36dd6.css",
-  "main.css.map": "static/css/main.b9b36dd6.css.map",
-  "main.js": "static/js/main.c83fe327.js",
-  "main.js.map": "static/js/main.c83fe327.js.map"
+  "main.css": "/shitposting/static/css/main.06cf7629.chunk.css",
+  "main.js": "/shitposting/static/js/main.18573349.chunk.js",
+  "main.js.map": "/shitposting/static/js/main.18573349.chunk.js.map",
+  "static/js/1.bd5c2da9.chunk.js": "/shitposting/static/js/1.bd5c2da9.chunk.js",
+  "static/js/1.bd5c2da9.chunk.js.map": "/shitposting/static/js/1.bd5c2da9.chunk.js.map",
+  "runtime~main.js": "/shitposting/static/js/runtime~main.a467243b.js",
+  "runtime~main.js.map": "/shitposting/static/js/runtime~main.a467243b.js.map",
+  "static/css/main.06cf7629.chunk.css.map": "/shitposting/static/css/main.06cf7629.chunk.css.map",
+  "index.html": "/shitposting/index.html",
+  "precache-manifest.dd6ffedb33c82b1d1a8b58a4079ceab1.js": "/shitposting/precache-manifest.dd6ffedb33c82b1d1a8b58a4079ceab1.js",
+  "service-worker.js": "/shitposting/service-worker.js"
 }
